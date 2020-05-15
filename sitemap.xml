@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://jackjuice.top/</loc>
+    <lastmod>2020-05-15T11:24:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jackjuice.top/posts/</loc>
+    <lastmod>2020-05-15T11:24:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jackjuice.top/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2020-05-15T11:24:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jackjuice.top/posts/%E5%9B%9E%E5%BD%92%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2020-05-15T11:15:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2020-05-15T11:15:34+08:00</lastmod>
+    <loc>http://jackjuice.top/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/%E5%9B%9E%E5%BD%92%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2020-05-15T11:15:34+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://jackjuice.top/tags/</loc>
   </url>
   
 </urlset>
